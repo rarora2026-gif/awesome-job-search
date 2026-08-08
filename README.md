@@ -21,6 +21,7 @@ Tools that score, optimize, or build resumes against Applicant Tracking Systems.
 - [Jobscan](https://www.jobscan.co/) - Resume-to-job-description matching.
 - [Teal](https://www.tealhq.com/) - Resume builder plus application tracker.
 - [Rezi](https://www.rezi.ai/) - AI resume builder.
+- [Resume Roaster](https://resume.roastlabai.com/) - Free AI resume critic with instant ATS keyword gap detection and brutally honest bullet-point feedback. No account needed for the first roast.
 - [Resume Worded](https://resumeworded.com/) - Resume and LinkedIn feedback.
 
 ## Job Boards & Aggregators
