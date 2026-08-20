@@ -22,6 +22,7 @@ Tools that score, optimize, or build resumes against Applicant Tracking Systems.
 - [Teal](https://www.tealhq.com/) - Resume builder plus application tracker.
 - [Rezi](https://www.rezi.ai/) - AI resume builder.
 - [Resume Worded](https://resumeworded.com/) - Resume and LinkedIn feedback.
+- [JobFit](https://github.com/andrwspt/jobfit) - Free offline resume gap checker. Paste resume + job description, get match score + missing keywords. 100% client-side, no tracking, no account. [Live demo](https://andrwspt.github.io/jobfit/)
 
 ## Job Boards & Aggregators
 - [Recruit Myself](https://recruitmyself.com/jobs) - AI job board that scores every live role against your CV; hubs for US, UAE, UK, India, Singapore, Canada.
