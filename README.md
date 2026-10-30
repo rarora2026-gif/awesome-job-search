@@ -22,6 +22,7 @@ Tools that score, optimize, or build resumes against Applicant Tracking Systems.
 - [Teal](https://www.tealhq.com/) - Resume builder plus application tracker.
 - [Rezi](https://www.rezi.ai/) - AI resume builder.
 - [Resume Worded](https://resumeworded.com/) - Resume and LinkedIn feedback.
+- [Hiretop ATS Resume Checker](https://hiretop.com/ats-resume-checker) - Free ATS check against a job description with no signup; shows the text an ATS extracts and which requirements your resume proves.
 
 ## Job Boards & Aggregators
 - [Recruit Myself](https://recruitmyself.com/jobs) - AI job board that scores every live role against your CV; hubs for US, UAE, UK, India, Singapore, Canada.
