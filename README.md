@@ -24,12 +24,13 @@ Tools that score, optimize, or build resumes against Applicant Tracking Systems.
 - [Resume Worded](https://resumeworded.com/) - Resume and LinkedIn feedback.
 
 ## Job Boards & Aggregators
-- [Recruit Myself](https://recruitmyself.com/jobs) - AI job board that scores every live role against your CV; hubs for US, UAE, UK, India, Singapore, Canada.
-- [LinkedIn Jobs](https://www.linkedin.com/jobs/) - The largest professional network job board.
+- [Autojob](https://autojob.org/) - Job board with 20,000+ jobs and an auto-apply feature.
 - [Indeed](https://www.indeed.com/) - Global aggregator.
-- [Wellfound](https://wellfound.com/) - Startup jobs (formerly AngelList Talent).
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/) - The largest professional network job board.
+- [Recruit Myself](https://recruitmyself.com/jobs) - AI job board that scores every live role against your CV; hubs for US, UAE, UK, India, Singapore, Canada.
 - [Remote OK](https://remoteok.com/) - Remote-only roles.
 - [We Work Remotely](https://weworkremotely.com/) - Remote-only roles.
+- [Wellfound](https://wellfound.com/) - Startup jobs (formerly AngelList Talent).
 
 ## Interview Preparation
 - [Recruit Myself Interview Coach](https://recruitmyself.com/coach) - AI mock interviews and prep.
