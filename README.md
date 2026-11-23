@@ -18,6 +18,7 @@ Maintained by the team at [Recruit Myself](https://recruitmyself.com). Contribut
 Tools that score, optimize, or build resumes against Applicant Tracking Systems.
 - [Recruit Myself Resume Score](https://recruitmyself.com/resume-score) - Free, instant ATS resume score with actionable fixes. No signup required.
 - [Recruit Myself ATS Optimizer](https://recruitmyself.com/ats-optimizer) - Scan a resume against any job description for a keyword-gap analysis.
+- [Folium](https://foliumcv.com/) - Free resume builder in 23 languages; PDF and Word download without an account.
 - [Jobscan](https://www.jobscan.co/) - Resume-to-job-description matching.
 - [Teal](https://www.tealhq.com/) - Resume builder plus application tracker.
 - [Rezi](https://www.rezi.ai/) - AI resume builder.
