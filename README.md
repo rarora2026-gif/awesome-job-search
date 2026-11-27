@@ -30,6 +30,7 @@ Tools that score, optimize, or build resumes against Applicant Tracking Systems.
 - [Wellfound](https://wellfound.com/) - Startup jobs (formerly AngelList Talent).
 - [Remote OK](https://remoteok.com/) - Remote-only roles.
 - [We Work Remotely](https://weworkremotely.com/) - Remote-only roles.
+- [Elk Jobs](https://elkjobs.com/) - US jobs from employers' own career pages, with a resume fit score for each role.
 
 ## Interview Preparation
 - [Recruit Myself Interview Coach](https://recruitmyself.com/coach) - AI mock interviews and prep.
